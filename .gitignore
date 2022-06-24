@@ -23,4 +23,3 @@ releases
 protocol-generator/proto
 protocol-generator/target
 config.toml
-src/protocol
